@@ -1,34 +1,41 @@
-# 📈 L'Economia dell'Antifragilità
-Navigare, adattarsi e prosperare nel mercato tech dominato dall'AI e dalla volatilità globale.
+﻿# 📈 The Economics of Antifragility: Thriving in the AI-Disrupted Tech Labor Market
 
-## 💡 Il Progetto
-In un mondo in cui la tecnologia evolve più velocemente della formazione accademica, il concetto di Antifragilità diventa l'unica bussola affidabile. Questo progetto di ricerca analizza come le forze economiche, sociali e tecnologiche stiano ridisegnando il mercato del lavoro Tech, creando una frattura profonda tra chi subisce il cambiamento e chi impara a trarne vantaggio.
+[![Language](https://img.shields.io/badge/Language-R%204.4-276DC3?style=flat&logo=r)](https://www.r-project.org/)
+[![Framework](https://img.shields.io/badge/Framework-Nassim%20Taleb%20Antifragility-black)](#)
+[![Report](https://img.shields.io/badge/Thesis%20Report-Full%20PDF%20Monograph-red?logo=adobeacrobatreader)](L'economia%20dell'Antifragilità%20-%20Navigare%20il%20paradosso%20del%20mercato%20high-tech%20nell'era%20dell'AI.pdf)
 
-### 🌪️ Le 3 Forze della Trasformazione
-Il panorama lavorativo attuale è guidato dall'intersezione di tre vettori fondamentali:
+> An empirical and theoretical monograph investigating technological labor market polarization, skill depreciation velocity, and individual career antifragility under AI disruption.
 
-- Economia (High-Tech Capital): Flussi massicci di investimenti in R&D e startup che premiano l'innovazione di frontiera.
-- Società (Remote & Global Talent): La transizione verso il lavoro remoto e l'internazionalizzazione delle carriere, che ha abbattuto i confini geografici ma polarizzato la competizione.
-- Tecnologia (AI & Automation): L'intelligenza artificiale non solo automatizza, ma riscrive le regole della produttività, ridefinendo il valore delle competenze umane.
+---
 
-# 📖 Struttura della Ricerca
-La ricerca è organizzata in tre macro-aree di analisi:
+## 📌 Executive Summary
 
-### 🏛️ Capitolo 1: Dinamiche Strutturali
-Analisi del contesto macroeconomico. Dalla scarsità di talenti alla trasformazione delle carriere in entità fluide e internazionali.
-Key Focus: Antifragilità individuale, impatto dei nuovi modelli lavorativi.
+When technological change evolves faster than institutional academic curricula, linear career strategies fail. Technical workers who rely on static skill sets become fragile—facing rapid wage compression and skill obsolescence.
 
-### 🎯 Capitolo 2: La Frattura delle Competenze
-Un'indagine empirica sulle skill richieste oggi. Quali competenze vengono premiate dal mercato e quali stanno diventando obsolete?
-Key Focus: Allineamento formazione-mercato, skill resilienti, analisi della domanda globale di talento.
+This research project, originating from Francesco Colombini's Master's thesis in **Economics and Digital Firm**, bridges macroeconomic theory with empirical data science:
+- Analyzes the **structural fracture** of the tech labor market: why standard software skills are commoditizing while high-order systemic and strategic capabilities command exponential premiums.
+- Applies **Nassim Nicholas Taleb's Antifragility framework** to model career design: transforming volatility, automation, and AI shocks into positive asymmetric upside.
+- Analyzes empirical compensation microdata (**Data Science Salaries 2025**) in R to identify real-world salary determinants.
 
-### 💰 Capitolo 3: Il Valore del Talento (Analisi Quantitativa)
-Confronto basato sui dati tra le retribuzioni italiane e internazionali (focus USA). Perché a parità di ruolo esistono gap salariali del 100%?
-Key Focus: Valutazione economica dei profili, seniority, impatto geografico e leve di negoziazione.
+The complete research monograph is available in [`L'economia dell'Antifragilità - Navigare il paradosso del mercato high-tech nell'era dell'AI.pdf`](L'economia%20dell'Antifragilità%20-%20Navigare%20il%20paradosso%20del%20mercato%20high-tech%20nell'era%20dell'AI.pdf).
 
-# 🎯 Obiettivi
-Mappare le trasformazioni del settore Tech (AI, Cloud, Cybersecurity, Biotech).
-Identificare le skill "antifragili" per rimanere competitivi.
-Fornire strumenti per orientarsi tra mercati locali (Italia) e globali (USA/Remote).
-Consulta i dati e i grafici nella cartella /data-analysis.
-"L'antifragilità va oltre la resilienza. Il resiliente resiste agli shock; l'antifragile migliora grazie ad essi."
+---
+
+## 🔍 The Three Structural Forces
+
+1. **Macroeconomic Capital (High-Tech Allocation):** Global venture capital and enterprise R&D disproportionately reward frontier innovation while starving middle-tier routine execution.
+2. **Global Talent Liquidity (Remote Decoupling):** Geographic arbitrage has flattened entry barriers while hyper-polarizing global top-tier compensation.
+3. **AI & Automation (Skill Half-Life):** Generative AI does not merely automate tasks; it collapses the market value of procedural coding, shifting the premium to architectural governance and causal reasoning.
+
+---
+
+## 💻 Empirical Stack & Data
+
+- **Code:** `salaries2025.R` (R statistical analysis and data visualization)
+- **Datasets:** `DataScience_salaries_2025.csv`, `COMPETENZE.xlsx`
+- **Core Libraries:** `tidyverse`, `scales`, `gridExtra`
+
+---
+
+**Author:** Francesco Colombini  
+[GitHub Profile](https://github.com/FRA-0023) · [LinkedIn](https://www.linkedin.com/in/francescocolombini/)
