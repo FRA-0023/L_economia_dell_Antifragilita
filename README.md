@@ -1,8 +1,9 @@
-﻿# 📈 The Economics of Antifragility: Thriving in the AI-Disrupted Tech Labor Market
+# 📈 The Economics of Antifragility: Thriving in the AI-Disrupted Tech Labor Market
 
 [![Language](https://img.shields.io/badge/Language-R%204.4-276DC3?style=flat&logo=r)](https://www.r-project.org/)
 [![Framework](https://img.shields.io/badge/Framework-Nassim%20Taleb%20Antifragility-black)](#)
 [![Report](https://img.shields.io/badge/Thesis%20Report-Full%20PDF%20Monograph-red?logo=adobeacrobatreader)](L'economia%20dell'Antifragilità%20-%20Navigare%20il%20paradosso%20del%20mercato%20high-tech%20nell'era%20dell'AI.pdf)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > An empirical and theoretical monograph investigating technological labor market polarization, skill depreciation velocity, and individual career antifragility under AI disruption.
 
